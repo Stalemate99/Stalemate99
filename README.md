@@ -1,7 +1,6 @@
-<h2 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Kanishq Sunil. Welcome to my GitHub profile! </h2>
-<h3 align="center">
-  Student/Developer at University of Maryland, College Park 🌟
-</h3>
+<h2>Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  I'm Kanishq Sunil. Welcome to my GitHub profile! </h2>
+
+> The purpose of software engineering is to control complexity 🌌 not to create it 🌠
 
 <br>
 
