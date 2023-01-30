@@ -107,6 +107,8 @@
 
 <br>
 
+---
+
 <h3 align="center">Statistical Data</h3>
 <p align="left">
 <p align="left"><img align="left" width="45%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=stalemate99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="stalemate99" /></p>
