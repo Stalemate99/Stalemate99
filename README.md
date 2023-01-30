@@ -1,4 +1,3 @@
-
 <h2 align="center">Hi <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"> I'm Kanishq Sunil. Welcome to my GitHub profile! </h2>
 <h3 align="center">
   Student/Developer at University of Maryland, College Park 🌟
@@ -39,7 +38,7 @@
 
 <p align="left" width="200">
 
-### 🏗️ &nbsp;Frameworks  & Libraries 📖
+### 🏗️ &nbsp;Frameworks & Libraries 📖
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
@@ -54,6 +53,7 @@
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?logo=astro&logoColor=fff&style=for-the-badge)
 
 ### Styling 🖌️
+
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Saas](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
@@ -61,6 +61,7 @@
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)&nbsp;
 
 ### Database :floppy_disk:
+
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
@@ -71,12 +72,14 @@
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)&nbsp;
 
 ### Testing 🐛🩺
+
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)&nbsp;
 ![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)&nbsp;
 ![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)&nbsp;
 ![React Testing Library](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)&nbsp;
 
 ### Cloud Technologies ☁️
+
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
@@ -84,14 +87,15 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Travis CI](https://img.shields.io/badge/travis_CI-3EAAAF?style=for-the-badge&logo=travisci&logoColor=white)
 
-
 ### Design 🎨🖌️
+
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ### Other Tools ⛏️
+
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
@@ -104,29 +108,34 @@
 <br>
 
 <h3 align="center">Statistical Data</h3>
-<p align="left"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stalemate99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="stalemate99" /></p>
-<p align="right">&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=stalemate99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="left">
+<p align="left"><img align="left" width="45%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=stalemate99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="stalemate99" /></p>
+<p align="left">&nbsp;<img align="right" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=stalemate99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="stalemate99" /></p>
-
-
-<br>
-
-
-<p align="center"> 
+</p>
 
 <br>
 
-<p align="left"><img align="left"
+<p align="center">
+<p align="center"><img align="center" width="50%" height="300"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=stalemate99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="stalemate99" 
+    alt="stalemate99"
     bg_color=#808080/></p>
-  <h3 align="right">😎 Profile Views</h3> 
-  <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=stalemate99&label=Profile%20views&color=0e75b6&style=flat" alt="stalemate99" />
-    <img src="https://img.shields.io/github/followers/stalemate99.svg?style=social&label=Follow&maxAge=2592000" alt="stalemate99" /> 
-  </p>
-  <p align="right">
-     <h3 align="right">🤝🏻 Connect with me:</h3>
+
+</p>
+
+<br>
+
+<br>
+
+---
+
+<p align="right">
+    <p align="left">
+    <h3 align="center">
+
+  <h2 align="left">😎 Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span align="right">🤝🏻 Connect with me:</span></h2>
+    </h3>
   <a href="mailto:kanishqsunil99@gmail.com" target="blank"><img align="right" src="https://user-images.githubusercontent.com/36290185/215365227-e7534df4-efc1-4edc-8deb-4c463e1a8431.png" alt="gamil logo" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/kanishq-sunil/" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -140,12 +149,10 @@
  <a href="https://twitter.com/stalemate199" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="kanishq sunil" height="30" width="40" /></a>
+      <img src="https://komarev.com/ghpvc/?username=stalemate99&label=Profile%20views&color=0e75b6&style=flat" alt="stalemate99" />
+      <img src="https://img.shields.io/github/followers/stalemate99.svg?style=social&label=Follow&maxAge=2592000" alt="stalemate99" />
+    </p>
+
 </p>
-</p>
 
-<br>
-
-
-
-----
-Credit: [Kanishq Sunil](https://github.com/Stalemate99)
+##### Credit: [Kanishq Sunil](https://github.com/Stalemate99)
