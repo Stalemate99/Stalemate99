@@ -111,34 +111,13 @@
 
 ---
 
-<h3 align="center">Statistical Data</h3>
+<h3 align="left">Statistical Data</h3>
 <p align="left">
 <p align="left"><img align="left" width="45%" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=stalemate99&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="stalemate99" /></p>
-<p align="left">&nbsp;<img align="right" width="45%" height="300" src="https://github-readme-stats.vercel.app/api?username=stalemate99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="stalemate99" /></p>
 </p>
-
-<br>
-
-<p align="center">
-<p align="center"><img align="center" width="50%" height="300"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=stalemate99&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="stalemate99"
-    bg_color=#808080/></p>
-
-</p>
-
-<br>
-
-<br>
-
----
 
 <p align="right">
-    <p align="left">
-    <h3 align="center">
-
-  <h2 align="left">😎 Profile Views &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <span align="right">🤝🏻 Connect with me:</span></h2>
+  <h2 align="left">😎 Profile Views&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span align="right">🤝🏻 Connect with me:</span></h2>
     </h3>
   <a href="mailto:kanishqsunil99@gmail.com" target="blank"><img align="right" src="https://user-images.githubusercontent.com/36290185/215365227-e7534df4-efc1-4edc-8deb-4c463e1a8431.png" alt="gamil logo" height="30" width="40" /></a>
    <a href="https://www.linkedin.com/in/kanishq-sunil/" target="blank"><img align="right"
@@ -155,8 +134,6 @@
       alt="kanishq sunil" height="30" width="40" /></a>
       <img src="https://komarev.com/ghpvc/?username=stalemate99&label=Profile%20views&color=0e75b6&style=flat" alt="stalemate99" />
       <img src="https://img.shields.io/github/followers/stalemate99.svg?style=social&label=Follow&maxAge=2592000" alt="stalemate99" />
-    </p>
-
 </p>
 
 ##### Credit: [Kanishq Sunil](https://github.com/Stalemate99)
